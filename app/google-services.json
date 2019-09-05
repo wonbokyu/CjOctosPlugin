@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "399278680229",
+    "firebase_url": "https://octosusers.firebaseio.com",
+    "project_id": "octosusers",
+    "storage_bucket": "octosusers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399278680229:android:50883b1348b83377",
+        "android_client_info": {
+          "package_name": "com.onethefull.cjoctosplugin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399278680229-7fa1pogl3ddlcr5hsmd7qi0cjorg4pf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYNumr0cqbwcsyaXiLCQJE6tsk9E6ktc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399278680229-7fa1pogl3ddlcr5hsmd7qi0cjorg4pf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399278680229:android:44380845b944e99d",
+        "android_client_info": {
+          "package_name": "com.onethefull.octoscjplugin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399278680229-7fa1pogl3ddlcr5hsmd7qi0cjorg4pf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYNumr0cqbwcsyaXiLCQJE6tsk9E6ktc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399278680229-7fa1pogl3ddlcr5hsmd7qi0cjorg4pf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399278680229:android:55f7ea424bb7b392",
+        "android_client_info": {
+          "package_name": "com.onethefull.octoscjplugin_testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399278680229-7fa1pogl3ddlcr5hsmd7qi0cjorg4pf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYNumr0cqbwcsyaXiLCQJE6tsk9E6ktc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399278680229-7fa1pogl3ddlcr5hsmd7qi0cjorg4pf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
